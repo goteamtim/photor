@@ -69,6 +69,7 @@
     <Content Include="js\instafeed.min.js" />
     <Content Include="js\main.js" />
     <Content Include="css\default.css" />
+    <Content Include="js\mine.js" />
     <Content Include="js\require.js" />
     <None Include="photor_TemporaryKey.pfx" />
   </ItemGroup>
